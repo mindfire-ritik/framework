@@ -1,5 +1,7 @@
 behave
 browserstack-local
 selenium
+parse
+parse-type
 psutil
 browserstack-sdk
